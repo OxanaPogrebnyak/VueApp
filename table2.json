@@ -1,0 +1,78 @@
+{
+  "rows": [
+    {
+      "minprice": 53,
+      "maxprice" : 233,
+      "procent": 60,
+      "cnt": "каждые две недели",
+      "id": 67
+    },
+    {
+      "minprice": 32,
+      "maxprice" : 456,
+      "procent": 32,
+      "cnt": "ежемесячно",
+      "id": 34
+    },
+    {
+      "minprice": 32,
+      "maxprice" : 342,
+      "procent": 54,
+      "cnt": "ежемесячно",
+      "id": 98
+    },
+    {
+      "minprice": 21,
+      "maxprice" : 656,
+      "procent": 32,
+      "cnt": "каждые две недели",
+      "id": 98
+    },
+    {
+      "minprice": 54,
+      "maxprice" : 765,
+      "procent": 21,
+      "cnt": "единовременно",
+      "id": 98
+    },
+    {
+      "minprice": 54,
+      "maxprice" : 877,
+      "procent": 65,
+      "cnt": "единовременно",
+      "id": 98
+    },
+    {
+      "minprice": 83,
+      "maxprice" : 335,
+      "procent": 65,
+      "cnt": "ежемесячно",
+      "id": 98
+    },
+    {
+      "minprice": 234,
+      "maxprice" : 544,
+      "procent": 33,
+      "cnt": "каждые две недели",
+      "id": 98
+    },
+    {
+      "minprice": 130,
+      "maxprice" : 240,
+      "procent": 50,
+      "cnt": "ежемесячно",
+      "id": 98
+    },
+    {
+      "minprice": 44,
+      "maxprice" : 6,
+      "procent": 87,
+      "cnt": "каждые две недели",
+      "id": 56
+    }
+  ],
+  "pagination" : {
+    "currentPage" : 1,
+    "count" : 2
+  }
+}
